@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts Group App</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_an_account_sign_in">already have an account? Sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="password">Password</string>
+
+    <string name="name">Name</string>
+
+    <string name="add_contact">Add Contact</string>
+    <string name="new_category">New Category</string>
+    <string name="add_category">Add Category</string>
+    <string name="save">save</string>
+    <string name="number">Number</string>
+    <string name="confirm_pasword">Confirm pasword</string>
+    <string name="welcome_sign_up">Welcome, Sign Up</string>
+</resources>
