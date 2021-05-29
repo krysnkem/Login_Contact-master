@@ -1,7 +1,7 @@
 # Login_Contact-master
 Contact app
 
-An app that implement Room database to store data of users
+An app that implements Room database to store data of users
 
 App Images
 
